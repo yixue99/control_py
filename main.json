@@ -12,12 +12,12 @@
 		"control": true,
 		"password": "yixue99",
         "users": ["sdd19201", "sdd61534"],
-		"warn": "*这是crm提示信息"
+		"warn": "*每天固定时间段线上自动授权，如下载数据失败可联系小宋发送crmsq重新上传授权"
 	},
 	"qqqf": {
 		"control": true,
 		"password": "yixue99",
         "users": ["sdd19201", "sdd61534"],
-		"warn": "这是使用说明"
+		"warn": "这是一个测试文字长度的字段，大概\n这是一个测试文字长度的字段，大概\n"
 	}
     }
