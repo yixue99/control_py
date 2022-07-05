@@ -11,7 +11,7 @@
 	"crm_hd": {
 		"control": true,
 		"password": "yixue99",
-        "users": ["sdd19201", "sdd61534"],
+        "users": ["lmj5983"],
 		"warn": "*每天固定时间段线上自动授权，如下载数据失败可联系小宋发送crmsq重新上传授权"
 	},
 	"qqsq": {
